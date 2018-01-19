@@ -1,4 +1,3 @@
-# prasanth
 ## Add New Config Options
 - Branch Creation (Assumed that you have installed git-hub desktop and cloned Unity-Uncrustify repository), make sure that your current branch is master and then create a new branch “Git_hub -> Branch -> New Branch” mention branch- name which is appropriate and publish branch.
 - Run all the test cases before starting any development work to ensure that the branch is ERROR free.
